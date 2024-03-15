@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CS6650_Servlet">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS6650_Servlet</output-path>
+    <root id="archive" name="CS6650_Servlet.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CS6650_Servlet" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.10.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
