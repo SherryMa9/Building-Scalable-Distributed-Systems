@@ -1,0 +1,9 @@
+Client1/SkierApiService.class
+Client2/SkierClient2$RequestSender.class
+Client1/RequestStats.class
+Client1/SkierClient.class
+Client1/LiftRideEventGenerator.class
+Client2/SkierClient2.class
+Client2/LatencyRecord.class
+Client1/LiftRideEvent.class
+Client2/SkierApiServicePro.class
