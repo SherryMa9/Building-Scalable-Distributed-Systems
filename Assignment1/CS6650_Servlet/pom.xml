@@ -15,7 +15,7 @@
     </properties>
 
     <build>
-        <finalName>CS6650_ASS1_EC2_API</finalName>
+        <finalName>CS6650_Servlet</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
